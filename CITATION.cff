@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the archived research report."
+type: software
+title: "Research Notes on ζ(9): Constructions, Computations, and Open Problems"
+authors:
+  - family-names: Xu
+    given-names: Yuxuan
+    orcid: "https://orcid.org/0009-0001-8760-5277"
+repository-code: "https://github.com/Anchen0823/zeta9-research-notes"
+preferred-citation:
+  type: report
+  title: "Research Notes on ζ(9): Constructions, Computations, and Open Problems"
+  authors:
+    - family-names: Xu
+      given-names: Yuxuan
+      orcid: "https://orcid.org/0009-0001-8760-5277"
+  institution:
+    name: Zenodo
+  year: 2026
+  version: "0.1"
+  doi: "10.5281/zenodo.22951155"
+  url: "https://doi.org/10.5281/zenodo.22951155"
